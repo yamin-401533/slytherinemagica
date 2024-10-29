@@ -24,7 +24,7 @@ A React-based interactive web application dedicated to exploring the fascinating
   ![about](https://github.com/user-attachments/assets/c210a30d-8afe-4d23-be73-a8f90118edbe)
 
 - **Services**: The Magical World of Harry Potter
-  ![9](https://github.com/user-attachments/assets/eb7bf9be-9225-48ec-939c-b06cb0f84928)
+  ![9](https://github.com/user-attachments/assets/d1089438-dacf-4148-a9ea-d0e85b17735d)
 
 - **Books**: The Hogwarts Library - Harry Potter Books
   ![hogwarts](https://github.com/user-attachments/assets/0309e4aa-aa32-485b-adb0-c94d4986ff80)
