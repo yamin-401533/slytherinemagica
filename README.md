@@ -54,6 +54,8 @@ A React-based interactive web application dedicated to exploring the fascinating
 - **Footer**: Important links and information
 ![contact](https://github.com/user-attachments/assets/53df0295-d147-4420-883e-5c23fc159a0f)
 
+### slytherin full page:
+![Screenshot_1-11-2024_154820_localhost](https://github.com/user-attachments/assets/7ff4fd96-3a2d-478a-a117-443318cddd87)
 
 
 ##  🛠️ Technical Stack
