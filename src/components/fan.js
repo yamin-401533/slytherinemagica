@@ -8,7 +8,7 @@ import Nav from 'react-bootstrap/Nav';
 import Tab from 'react-bootstrap/Tab';
 import Spinner from 'react-bootstrap/Spinner';
 import { Heart, Pen, PaintBucket, Film, ExternalLink } from 'lucide-react';
-import '../styles/fancreation.css';
+import './App.css';
 // Import images
 
 
