@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import PropTypes from 'prop-types';
 import styles from '../styles/navbar.module.css';
+import './App.css';
+
 
 /**
  * Navigation link item component
