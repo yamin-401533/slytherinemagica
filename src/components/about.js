@@ -8,7 +8,7 @@ import Badge from 'react-bootstrap/Badge';
 
 import img1 from '../assets/images/img1.jpg';
 import img16 from '../assets/images/img16.jpg';
-import './App.css';
+import './components/App.css';
 
 function AppAbout() {
   const sectionRef = useRef(null);
