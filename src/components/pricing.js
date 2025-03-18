@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../styles/pricing.css';
+import './App.css';
 
 function App() {
   // Sample book data
