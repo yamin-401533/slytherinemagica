@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/pricing.css';
+import './App.css';
 function FeaturedCollection() {
   return (
     <div className="featured-collection">
