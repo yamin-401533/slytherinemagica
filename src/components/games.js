@@ -7,7 +7,9 @@ import Modal from 'react-bootstrap/Modal';
 import Badge from 'react-bootstrap/Badge';
 import ProgressBar from 'react-bootstrap/ProgressBar';
 import Dropdown from 'react-bootstrap/Dropdown';
-import '../styles/games.css';
+import './App.css';
+
+
 import { 
   Gamepad2, 
   Zap, 
