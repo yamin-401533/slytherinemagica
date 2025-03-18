@@ -6,7 +6,7 @@ import Modal from 'react-bootstrap/Modal';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Badge from 'react-bootstrap/Badge';
-import '../styles/services.css';
+import './App.css';
 
 const magicalCreaturesData = [
   {
