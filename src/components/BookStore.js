@@ -3,7 +3,7 @@ import { useBookStore } from './Context';
 import FeaturedCollection from './FeaturedCollection';
 import BookSection from './BookSection';
 import ShoppingCart from './ShoppingCart';
-import '../styles/pricing.css';
+import './App.css';
 function BookStore() {
   const { books } = useBookStore();
   
