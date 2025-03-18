@@ -6,7 +6,6 @@ import AppHeader from './components/header';
 import AppHero from './components/hero';
 import AppAbout from './components/about';
 import AppServices from './components/services';
-import AppWorks from './components/works';
 import AppTeams from './components/teams';
 import AppBlog from './components/blog';
 import AppGame from './components/games';  
@@ -19,28 +18,28 @@ import AppFanCreations from './components/fan';
 
 function App() {
   return (
-    <div className="App">
-      <header id='header'>
-        <AppHeader />
-      </header>
-      <main>
-        <AppHero />
-        <AppAbout />
-        <AppServices />
-        <AppBooks />
-        <AppWorks />
-        <AppBlog />
-        <AppGame />
-        <AppFanCreations />
-        <AppPricing />
-        <AppTeams />
-        <AppTestimonials />
-        <AppContact />
-      </main>
-      <footer id="footer">
-        <AppFooter />
-      </footer>
-    </div>
+
+      <div className="App">
+        <header id='header'>
+          <AppHeader />
+        </header>
+        <main>
+          <AppHero />
+          <AppAbout />
+          <AppServices />
+          <AppBooks />
+          <AppBlog />
+          <AppGame />
+          <AppFanCreations />
+          <AppPricing />
+          <AppTeams />
+          <AppTestimonials />
+          <AppContact />
+        </main>
+        <footer id="footer">
+          <AppFooter />
+        </footer>
+      </div>
   );
 }
 
