@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight, Search, Book, Info } from 'lucide-react';
-import './App.css';
+import './components/App.css';
 
 // Unified books data with consistent fields
 const booksData = [
