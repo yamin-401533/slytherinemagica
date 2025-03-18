@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Container from 'react-bootstrap/Container';
-import './App.css';
+import './components/App.css';
 
 function AppFooter() {
   const [showTopBtn, setShowTopBtn] = useState(false);
