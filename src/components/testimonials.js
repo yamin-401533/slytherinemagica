@@ -1,6 +1,7 @@
 import Container from 'react-bootstrap/Container';
 import Carousel from 'react-bootstrap/Carousel';
-import '../styles/testimonials.css';
+import './App.css';
+
 var testimonialsData = [
   {
     id: 1,
