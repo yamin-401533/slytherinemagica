@@ -1,6 +1,6 @@
 import React from 'react';
 import { useBookStore } from './Context';
-import '../styles/pricing.css';
+import './App.css';
 
 const BookGrid = () => {
   const { books, addToCart } = useBookStore();
