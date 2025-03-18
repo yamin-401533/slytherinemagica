@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useBookStore } from '../context/BookStoreContext';
 import { Heart, ShoppingCart, Info } from 'lucide-react';
-import './App.css';
+import './components/App.css';
 
 // Enhanced Book Card Component with hover effects and better styling
 const BookCard = ({ book }) => {
