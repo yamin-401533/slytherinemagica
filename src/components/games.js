@@ -7,7 +7,7 @@ import Modal from 'react-bootstrap/Modal';
 import Badge from 'react-bootstrap/Badge';
 import ProgressBar from 'react-bootstrap/ProgressBar';
 import Dropdown from 'react-bootstrap/Dropdown';
-import './App.css';
+import './components/App.css';
 
 
 import { 
