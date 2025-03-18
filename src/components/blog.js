@@ -8,7 +8,7 @@ import Carousel from 'react-bootstrap/Carousel';
 import Modal from 'react-bootstrap/Modal';
 import Button from 'react-bootstrap/Button';
 import { motion } from 'framer-motion';
-import './App.css';
+import './components/App.css';
 
 const blogData = [
   {
