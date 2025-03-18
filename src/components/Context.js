@@ -6,7 +6,7 @@ import img211 from '../assets/images/img211.jpg';
 import img212 from '../assets/images/img212.jpg';
 import img2 from '../assets/images/img2.jpg';
 import img4 from '../assets/images/img4.jpg';
-import './App.css';
+import './components/App.css';
 // Create context
 const BookStoreContext = createContext();
 
